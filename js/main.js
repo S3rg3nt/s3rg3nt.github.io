@@ -1,3 +1,4 @@
+import Typed from 'typed.js';
 $(document).ready(() => {
   $(() => {
     $('[data-toggle="tooltip"]').tooltip();
